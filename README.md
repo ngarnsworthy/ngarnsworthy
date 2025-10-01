@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngarnsworthy&show_icons=true&locale=en" alt="ngarnsworthy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngarnsworthy&" alt="ngarnsworthy" /></p>
+
+<p><img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20791&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="ngarnsworthy" /></p>
