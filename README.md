@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngarnsworthy" alt="ngarnsworthy" /></a> </p>
 
-- 🔭 I’m currently working on [Irish DECA](https://gitlab.com/ngarnsworthy/irishdeca)
+- 🔭 I’m currently working on [Terra3D](https://gitlab.com/terra3d)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/ngarnsworthy](https://gitlab.com/ngarnsworthy)
 
