@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ngarnsworthy@gmail.com**
 
-- ⚡ Fun fact **I do parliamentary debate (Which is the best format)**
+- ⚡ Fun fact **I do congressional debate (Which is the best format)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
